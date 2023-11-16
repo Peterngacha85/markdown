@@ -1,7 +1,8 @@
 {
   "name": "markdown-preview",
+  "homepage": "https://peterngacha85.github.io/markdown-prev/git push -u origin main",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.0" ,
   "type": "module",
   "scripts": {
     "dev": "vite",

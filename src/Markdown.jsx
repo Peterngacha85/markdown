@@ -60,7 +60,7 @@ function MarkdownPreview() {
 
 
   return (
-    <div id='wrappe'>
+    <div id='wrapper'>
       <h1  id='h1'>Markdown Previewer</h1>
       <div className="container">
         <div className="left">
